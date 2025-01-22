@@ -36,6 +36,9 @@ namespace ConsoleApp15
                     obj.orange();
                     obj.apple();
 
+
+                    Console.WriteLine("hello");
+
                 }
             }
         }
